@@ -1,0 +1,40 @@
+<body>
+    <main class="main">
+        <div class="main-container">
+            <div class="spinner-border loader" *ngIf="!dataLoaded"></div>
+            <div *ngIf="dataLoaded">
+                <h1 style="font-weight: bolder;">Replies to your tweet</h1>
+                <app-tweet (deletedTweet)="deleteTweetMain($event)" [tweet]="tweet"></app-tweet>
+                <br><br>
+                <form id="newOverlayReplyForm" [formGroup]="replyForm">
+                    <textarea formControlName="reply" #reply class="reply-form-text-area" rows="5"
+                        cols="50" placeholder="Tweet your reply" (keyup)="replyTextAreaKeyup()"></textarea>
+                    <button class="btn btn-info reply-form-button" [disabled]="isButtonDisabled" (click)="replyTweet()"> Reply</button>
+                </form>
+
+                <div class="navbar">
+                    <div class="navbar-item" *ngIf="!showReply" (click)="showReplies()">Show replies
+                        <mat-icon>keyboard_arrow_down</mat-icon>
+                    </div>
+                    <div class="navbar-item" *ngIf="showReply" (click)="showReplies()">Hide Replies
+                        <mat-icon>keyboard_arrow_up</mat-icon>
+                    </div>
+                </div>
+
+                <div class="replies" *ngIf="showReply">
+                    <div class="reply navbar-item" style="padding: 10px; color:#0099ff" *ngIf="!replyTweetList || replyTweetList.length == 0">
+                        No Replies
+                    </div>
+                    <div *ngIf="replyTweetList && replyTweetList.length > 0">
+                        <div class="reply" style="padding: 10px;" *ngFor="let tweet of replyTweetList">
+                            <div>
+                                <app-tweet (deletedTweet)="deletedReplyTweetUpdateList($event)" [tweet]=tweet></app-tweet>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+</body>

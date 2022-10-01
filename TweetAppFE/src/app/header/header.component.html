@@ -1,0 +1,35 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+        <div class="navbar-brand header-bar">
+           <i class="fa fa-twitter header-items" (click)="redirectToHomePage()" style="color:blue"></i>
+           <i class="fa fa-user header-items" (click)="redirectToProfilePage()"></i>
+           <div class="header-items text" style="color: white; font-family: 'Verdana', sans-serif">Tweet App</div>
+        </div>
+        <div class="navbar-nav ml-auto header-end">
+        <div class="input-group">
+            <div class="form-outline" style="display: inline-block; white-space: nowrap; width:90%;">
+                <div>
+                    <span class="bar">
+                        <mat-form-field>
+                            <input matInput placeholder="Search other users.." [(ngModel)]="searchValue" (keyup)="searchUsers()" [matAutocomplete]="auto">
+                                <mat-autocomplete #auto="matAutocomplete">
+                                    <mat-option *ngFor="let user of userList">
+                                    {{user.loginId}}
+                                </mat-option>
+                            </mat-autocomplete>
+                        </mat-form-field>
+                    </span>
+                    <span>
+                        &nbsp;<button class="btn">
+                            <i class="fa fa-search" style="color:red;"></i>
+                        </button>
+                    </span>
+                </div>
+                
+            </div>
+            
+        </div>
+            <button type="button" class="btn btn-info" (click)="Logout()">Logout</button>
+        </div>
+    </div>
+</nav>

@@ -1,0 +1,54 @@
+<body>
+    <div class="sidebar">
+        <form id="newProfileForm" [formGroup]="tweetForm" class="overlay_form">
+            <span style="font-weight: bolder;">Post Tweet</span>
+            <br>
+            <textarea rows="5" cols="40" #message formControlName="Message" (keyup)="keyupevent()"
+                placeholder="Write your thoughts..."></textarea>
+            <div class="submit">
+                <button class="btn btn-info" (click)="postTweet()" form="tweetForm"
+                    [disabled]="buttonDisabled">&nbsp;Post Tweet</button>
+            </div>
+        </form>
+    </div>
+
+    <main class="main">
+        <div class="main-container">
+            <div>
+                <div class="profile-section">
+                    <div class="profile-img-container">
+                        <img src="../../assets/Images/Profile-img.png" class="profile-img">
+                    </div>
+                    <div style="padding-left: 12px;">
+                        <div class="user-first-name">{{fullName}}</div>
+                        <div class="username">@{{userName}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="navbar">
+                <div class="navbar-item" *ngIf="showTweets" (click)="fetchTweetsUser()">Hide My Tweets
+                    <mat-icon *ngIf="showTweets">keyboard_arrow_down</mat-icon>
+                </div>
+                <div class="navbar-item" *ngIf="!showTweets" (click)="fetchTweetsUser()">Show My Tweets
+                    <mat-icon *ngIf="!showTweets">keyboard_arrow_up</mat-icon>
+                </div>
+
+            </div>
+            <ng-container *ngIf="tweetUserList && showTweets">
+                <div style="padding: 10px; color:#0099ff" *ngIf="tweetUserList.length == 0">
+                    No Tweets available for user currently.
+                </div>
+                <div *ngIf="tweetUserList.length > 0">
+                    <div class="tweetList" *ngFor="let tweet of tweetUserList">
+                        <ng-container *ngIf="tweet['loginId'] === userName;else others">
+                            <app-tweet [tweet]="tweet" (deletedTweet)="deleteTweetUpdateList($event)"></app-tweet>
+                        </ng-container>
+                        <ng-template #others>
+                            Not logged in user's tweets
+                        </ng-template>
+                    </div>
+                </div>
+            </ng-container>
+        </div>
+    </main>
+</body>

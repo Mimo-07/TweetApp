@@ -1,0 +1,32 @@
+.reply-form-text-area{
+    display: inline-block;
+    width:70%;
+    margin-right: 10px;
+}
+
+.reply-form-button{
+    display: inline-block;
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+.navbar{
+    margin-top: 12px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-item{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    color: blue;
+    font-family: 'Lucida Handwriting',cursive;
+}
+
+.navbar-item:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.06);
+}

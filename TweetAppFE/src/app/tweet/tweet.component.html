@@ -1,0 +1,23 @@
+<div class="tweet">
+    <div class="tweet-header">
+        <img src="../../assets/Images/Profile-img.png" class="profile-img">
+        <div class="tweet-bio">
+            <div class="tweet-header-author">
+                <div>@{{tweet.loginId}}</div>
+            </div>
+            <div class="tweet-time">
+                {{tweetTime[0]}}
+            </div>
+        </div>
+    </div>
+    <div class="tweet-content">{{tweet.tweetText}}</div>
+    <div class="tweet-counters">
+
+    </div>
+    <div class="tweet-footer">
+        <img src="../../assets/Images/like-icon.png" class="icons" *ngIf="!tweetLikedByUser" (click)="likeTweet()">
+        <img src="../../assets/Images/liked-icon.png" class="icons" *ngIf="tweetLikedByUser" (click)="likeTweet()">
+        <img src="../../assets/Images/twitter-reply-icon.png" class="icons" (click)="redirectToReplyPage()">
+        <img src="../../assets/Images/delete.png" class="icons" (click)="deleteTweet()">
+    </div>
+</div>

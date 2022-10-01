@@ -1,0 +1,61 @@
+body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile-img{
+    width: 130px;
+    height: auto;
+    border-radius: 80px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: 3px solid white;
+}
+
+.submit{
+    display:flex;
+    justify-content: flex-end;
+}
+
+.profile-img-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user-first-name{
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.username{
+    color:gray;
+}
+
+.overlay_form{
+    padding-top: 20px;
+}
+
+.navbar{
+    margin-top: 12px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-item{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    color: blue;
+    font-family: 'Lucida Handwriting',cursive;
+}
+
+.navbar-item:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.06);
+}
+
+
+

@@ -1,0 +1,15 @@
+<body>
+    <main class="main">
+        <div class="main-container">
+            <h1 style="font-weight: bolder; color:#5c5c3d">Welcome {{firstName}}, check what others are up to!</h1>
+                <ng-container *ngIf="allTweets && allTweets.length > 0; else others">
+                    <div class="tweetList" *ngFor="let tweet of allTweets">
+                        <app-tweet [tweet]=tweet (deletedTweet)="deleteTweet($event)"></app-tweet>
+                    </div>
+                </ng-container>
+                <ng-template #others>
+                    No Tweets to show, Get Engaged!
+                </ng-template>
+        </div>
+    </main>
+</body>

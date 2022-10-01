@@ -1,0 +1,41 @@
+<div *ngIf="invalidLogin" class="d-flex justify-content-center">
+    <div class="alert alert-danger col-md-8">Invalid credentials</div>
+</div>
+<div class="row d-flex justify-content-center align-items-center h-100">
+    <div class="col-md-9 col-lg-6 col-xl-5">
+        <!-- TWITTER IMAGE GOES HERE -->
+        <img src="../../assets/Images/twitter_logo_large.jpg" alt="Twiiter image" class="img-fluid">
+    </div>
+    <div class="col-md-12 col-lg-12 col-xl-4 ">
+        <div [formGroup]="loginForm">
+            <h2>Login To Tweet App</h2>
+            <mat-form-field class="inputs" appearance="fill">
+                <mat-label>Login Id</mat-label>
+                <input matInput formControlName="loginId" placeholder="Enter Login id">
+            </mat-form-field>
+            <div *ngIf="isSubmitted && (loginForm.controls['loginId'].touched || loginForm.controls['loginId'].dirty) && loginForm.controls['loginId'].errors?.['required']"
+                class="alert alert-danger">Login Id is required</div>
+            <br>
+            <mat-form-field class="inputs" appearance="fill">
+                <mat-label>Password</mat-label>
+                <input type="password" matInput formControlName="password" placeholder="Enter password">
+            </mat-form-field>
+            <div *ngIf="isSubmitted && (loginForm.controls['password'].touched || loginForm.controls['password'].dirty) && loginForm.controls['password'].errors?.['required']"
+                class="alert alert-danger">Password is required</div>
+            <br>
+            <div class="d-flex justify-content-between align-items-center">
+                <label class="form-check label">
+                    <a class="link" (click)="registerPageRedirect()">New User? Register</a>
+                </label>
+                <label class="form-check label">
+                    <a class="link" (click)="forgotPasswordRedirect()"> Forgot Password?</a>
+                </label>
+            </div>
+            <div class="row">
+                <div class="col text-center">
+                    <button type="submit" (click)="login()" class="btn btn-primary">Submit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,141 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
+
+
+html, body { height: 100%; width: 100%; margin:0; padding:0; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;}
+
+.error-message{
+    color:red;
+}
+
+.header-bar{
+    display: flex;
+    width:60%;
+}
+
+.header-end{
+    display:flex;
+    width:30%;
+    justify-content: space-around;
+}
+
+.header-items{
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.main{
+    flex-basis: 70%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-container{
+    width: 600px;
+    height: 100%;
+}
+
+.link{
+    cursor: pointer;
+    text-decoration: underline;
+    color:blue;
+}
+
+.sidebar{
+    flex-basis: 30%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.tweet-header{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+.tweet-bio{
+    display:flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.tweet-time{
+    padding: 10px;
+}
+
+.profile-img{
+    margin-top: 5px;
+    height: 50px;
+    width:  50px;
+    border-radius: 25px;
+}
+
+.tweet-header-author{
+    padding: 10px;
+}
+
+.tweetList{
+    padding: 10px;
+}
+
+.tweet-header-author div{
+    padding-right: 5px;
+}
+
+.tweet-content{
+    padding: 30px 10px;
+}
+
+.tweet-footer{
+    display: flex;
+    justify-content: space-around;
+    padding:5px;
+}
+
+.tweet{
+    border:1px solid grey;
+    border-radius: 25px;
+}
+
+.tweet:hover{
+    opacity: 0.8;
+}
+
+.loader{
+    top:50%;
+    left:50%;
+    position: absolute;
+}
+
+.reply-form-button{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: black;
+    background-color: #1D9BF0;
+    width: 75px;
+    height: 45px;
+    border-radius: 30px;
+}
+
+.overlay-reply{
+    position: absolute;
+    top:50%;
+    left:50%;
+    color:black;
+    transform:translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    height: fit-content;
+    width: 30%;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+

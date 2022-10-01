@@ -1,0 +1,159 @@
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\appsettings.json
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\libman.json
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.exe
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.deps.json
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.runtimeconfig.json
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.runtimeconfig.dev.json
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\ref\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.pdb
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\DnsClient.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.csproj.AssemblyReference.cache
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.AssemblyInfoInputs.cache
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.AssemblyInfo.cs
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\staticwebassets\Tweet_Backend.StaticWebAssets.Manifest.cache
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\staticwebassets\Tweet_Backend.StaticWebAssets.xml
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\scopedcss\bundle\Tweet_Backend.styles.css
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\ref\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.pdb
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.genruntimeconfig.cache
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cogdotnet1197\source\repos\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\appsettings.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\libman.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.exe
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.deps.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.runtimeconfig.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.runtimeconfig.dev.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\ref\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.pdb
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\DnsClient.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.csproj.AssemblyReference.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.AssemblyInfoInputs.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.AssemblyInfo.cs
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\staticwebassets\Tweet_Backend.StaticWebAssets.Manifest.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\staticwebassets\Tweet_Backend.StaticWebAssets.xml
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\scopedcss\bundle\Tweet_Backend.styles.css
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\ref\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.pdb
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.genruntimeconfig.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\appsettings.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\libman.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.exe
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.deps.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.runtimeconfig.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.runtimeconfig.dev.json
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\ref\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Tweet_Backend.pdb
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\DnsClient.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.csproj.AssemblyReference.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.AssemblyInfoInputs.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.AssemblyInfo.cs
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\staticwebassets\Tweet_Backend.StaticWebAssets.Manifest.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\staticwebassets\Tweet_Backend.StaticWebAssets.xml
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\scopedcss\bundle\Tweet_Backend.styles.css
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\ref\Tweet_Backend.dll
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.pdb
+C:\Users\cogdotnet1197\source\Tweet_App\Tweet_Backend - Copy\Tweet_Backend\obj\Debug\net5.0\Tweet_Backend.genruntimeconfig.cache
